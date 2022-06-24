@@ -1,4 +1,4 @@
-**Everytime download all files and continue with the instructions below site.**
+**Everytime download all files and continue with instructions below the files.**
 
 Discord: **Đarkk#7410**
 
