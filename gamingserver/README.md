@@ -1,4 +1,4 @@
-Site made for gaming/dayz server
+Site made for gaming/ more likely dayz server
 
 DONT FORGET TO:
 
