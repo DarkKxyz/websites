@@ -1,0 +1,159 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat';
+    overflow: hidden;
+  }
+
+.background {
+  width: 100%;
+  height: 100vh;
+  background-image: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url(/978939.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.navbar header{
+  width: 100%;
+  height: 70px;
+  background-color: #282828;
+}
+
+.navbar h1{
+  position: absolute;
+  padding: 3px;
+  float: left;
+  margin-left: 12px;
+  margin-top: 10px;
+  color: #378a00;
+}
+
+.navbar ul{
+  width: auto;
+  float: right;
+  margin-top: 8px;
+}
+
+.navbar li{
+  display: inline-block;
+  padding: 15px 30px;
+}
+
+.navbar a{
+  text-align: center;
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.2vw;
+}
+
+.navbar a:hover{
+  color: #47b300;
+  transition: 0.5s;
+}
+
+.navbar span{
+  color: #378a00;
+}
+
+.info {
+  width: 100%;
+  position: absolute;
+  bottom: 10px;
+  line-height: 20px;
+  text-align: center;
+  color: white;
+  color: #ffffff;
+}
+
+.info h1 {
+  font-size: 45px;
+  font-weight: bold;
+}
+
+.info p {
+  font-size: 65px;
+}
+
+.content {
+  width: 100%;
+  position: absolute;
+  top: 30%;
+  transform: translateY(-50%);
+  text-align: center;
+  color: white;
+  color: #ffffff;
+}
+
+.content h1 {
+  font-size: 100px;
+}
+
+.content p {
+  font-weight:  100;
+  font-size: 25px;
+}
+
+.aboutustext1 {
+  width: 70%;
+  left: 15%;
+  position: absolute;
+  top: 30%;
+  transform: translateY(-50%);
+  text-align: center;
+  color: white;
+  color: #ffffff;
+}
+
+.aboutustext1 h1 {
+font-size: 70px;
+}
+
+.aboutustext1 p {
+  font-size: 20px;
+  }
+
+.snake {
+  position: absolute;
+  bottom: 1%;
+  color: #fff;
+  text-align: center;
+}
+
+.snake1 {
+  border: 2px solid #282828;
+  border-radius: 100%;
+}
+
+.vandan {
+  position: absolute;
+  bottom: 1%;
+  right: 0%;
+  color: #fff;
+  text-align: center;
+}
+
+.vandan1 {
+  border: 2px solid #282828;
+  border-radius: 100%;
+}
+
+.button-center {
+  width: 200px;
+  top: 75px;
+  margin: 20px 10px;
+  padding: 15px 0;
+  text-align: center;
+  border-radius: 7px;
+  font-weight: bold;
+  border: 2px solid transparent;
+  color: #fff;
+  background: #235800;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  font-size: 14px;
+}
+
+.button-center:active {
+  background: #1f4d00;
+}
